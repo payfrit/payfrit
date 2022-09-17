@@ -1,2 +1,2 @@
 # payfrit
-repository for the main Payfrit RMS ICO
+Main repository for Payfrit
